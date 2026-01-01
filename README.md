@@ -281,9 +281,6 @@ obesity-risk-classification/
 └── README.md                        # This file
 ```
 
-### 🧑‍💻 Development Team
-**Lujain Hesham** & **Jayda Mohamed**
-
 ### 🤝 Collaborative Approach
 - **Agile Methodology**: One-week sprint with daily standups
 - **Code Reviews**: Mutual code review and quality assurance
