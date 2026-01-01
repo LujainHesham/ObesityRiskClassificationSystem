@@ -1,44 +1,34 @@
 # Obesity Risk Classification System
 ### ITIDA/NTI Machine Learning Summer Training Capstone Project
 
-[Brief 2-3 sentence description]
+**👥 Team**: Lujain Hesham & Jayda Mohamed  
+**🎓 Program**: ITIDA/NTI Machine Learning Summer Training 2024 (99% score)  
+**📊 Results**: 90.1% accuracy with Random Forest  
+**🏷️ Tags**: machine-learning, classification, scikit-learn, obesity-prediction, uci-dataset
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
-- [Team & Program](#-team--program-context)
+- [Dataset Information](#-dataset-information)
 - [Results](#-results)
+- [Methodology](#-methodology)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Methodology](#-methodology)
-- [Contributors](#-contributors)
+- [Team & Acknowledgments](#-team--acknowledgments)
 - [License](#-license)
 
 ## 🎓 Project Overview
-[Detailed overview with training context]
+This machine learning classification system was developed as our capstone project for the **ITIDA/NTI Machine Learning Summer Training 2024**, where we achieved a **99% final score**. The project implements a complete pipeline to classify individuals into 7 obesity risk levels based on lifestyle and physical condition data from three Latin American countries.
 
-## 👥 Team & Program Context
-- **Developers**: Lujain Hesham & Jayda Mohamed
-- **Program**: ITIDA/NTI Machine Learning Summer Training 2024
-- **Duration**: Summer 2024
-- **Achievement**: 99% final score, Top 80 graduates
+### Key Achievements
+- **90.1% accuracy** with Random Forest classifier
+- **Complete ML pipeline** from EDA to model deployment
+- **5-classifier comparison** with detailed evaluation metrics
+- **Team collaboration** demonstrating agile development practices
 
-## 📊 Results
-- **Best Model**: Random Forest (90.1% accuracy)
-- **Dataset**: [Dataset details]
-- **Comparison**: 5 models evaluated
+## 📁 Dataset Information
 
-## 🔧 Installation
-[Setup instructions]
-
-## 🚀 Usage
-[How to run the project]
-
-## 🧪 Methodology
-[Technical approach]
-
-## 🤝 Contributors
-- **Lujain Hesham** - [Your GitHub]
-- **Jayda Mohamed** - [Teammate's GitHub]
-
-## 📄 License
-[License information]
+### Source
+- **Name**: Estimation of obesity levels based on eating habits and physical condition
+- **Origin**: UCI Machine Learning Repository
+- **URL**: https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
+- **Citation**: 
